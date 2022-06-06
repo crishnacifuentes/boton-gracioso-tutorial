@@ -1,2 +1,2 @@
 # boton-gracioso-tutorial
-copia el codigo y editalo a tu gusto 
+copia el codigo, declarate o has algo gracioso con esto!
